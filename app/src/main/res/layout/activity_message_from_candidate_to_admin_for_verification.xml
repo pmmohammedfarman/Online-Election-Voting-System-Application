@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".MessageFromCandidateToAdminForVerification">
+
+
+    <TextView
+        android:id="@+id/To"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TO :"
+        android:textColor="@color/black"
+        android:textSize="40dp" />
+
+    <EditText
+        android:id="@+id/ToID"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/To" />
+
+    <TextView
+        android:id="@+id/Subject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ToID"
+        android:text="SUBJECT"
+        android:textColor="@color/black"
+        android:textSize="40dp" />
+
+    <EditText
+        android:id="@+id/SubjectContent"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/Subject"
+        android:inputType="textEmailSubject" />
+
+    <TextView
+        android:id="@+id/MessageDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/SubjectContent"
+        android:text="Message :"
+        android:textColor="@color/black"
+        android:textSize="40dp" />
+
+    <EditText
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/MessageDisplay"
+        android:gravity="start|top"
+        android:lines="15"
+         />
+
+
+    <ImageButton
+        android:id="@+id/Send"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/message"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_baseline_send_24" />
+
+    <ImageButton
+        android:id="@+id/attach"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/message"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="1dp"
+        android:layout_marginRight="65dp"
+        android:layout_toLeftOf="@+id/message"
+        android:src="@drawable/ic_baseline_attach_file_24" />
+
+
+</RelativeLayout>

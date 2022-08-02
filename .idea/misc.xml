@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/ap/src/main/res/layout/activity_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.177" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.174" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.174" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.177" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/drawable/ic_twotone_how_to_vote_24.xml" value="0.174" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_admin.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_admin_pnvstep.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_admin_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_change_image.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_edit_info.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_edit_info_DOB.xml" value="0.246875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_edit_info_constituency.xml" value="0.1953125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_edit_info_dob.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_edit_info_name.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_edit_info_party.xml" value="0.1953125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_edit_info_phone.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_edit_profile.xml" value="0.16875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_pnvstep.xml" value="0.2140625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_portal.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_candidate_profile2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_main.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_main2.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_message_from_candidate_to_admin_for_verification.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_result.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_resultzs.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_view_message.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_view_message2.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_view_message3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_voter.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_voter_pnvstep.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_voter_profile.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/activity_voting.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/card.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/fragment_blank.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/fragment_home.xml" value="0.21721311475409835" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/fragment_mail.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/fragment_profile.xml" value="0.4" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/fragment_search2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/fragment_vote.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/main_activity.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/main_fragment.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/layout/row.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/menu/bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/menu/mymenu.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.177" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EVApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.177" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
